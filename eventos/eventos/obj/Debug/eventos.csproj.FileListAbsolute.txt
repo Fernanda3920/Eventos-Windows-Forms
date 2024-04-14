@@ -1,0 +1,7 @@
+C:\Users\ferna\source\repos\eventos\eventos\bin\Debug\eventos.exe.config
+C:\Users\ferna\source\repos\eventos\eventos\bin\Debug\eventos.exe
+C:\Users\ferna\source\repos\eventos\eventos\bin\Debug\eventos.pdb
+C:\Users\ferna\source\repos\eventos\eventos\obj\Debug\eventos.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\eventos\eventos\obj\Debug\eventos.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\eventos\eventos\obj\Debug\eventos.exe
+C:\Users\ferna\source\repos\eventos\eventos\obj\Debug\eventos.pdb
